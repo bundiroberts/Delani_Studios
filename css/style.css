@@ -165,3 +165,10 @@
   #work8:hover {
     opacity:0.5;
   }
+  @media screen and (max-width: 1500px) {
+    .column-4 {
+  width:100%;
+
+    }   
+
+}
