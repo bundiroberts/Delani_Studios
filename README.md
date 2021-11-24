@@ -15,6 +15,7 @@ Delani_studio showcases who they are and what they do, through some projects dis
   Go to live server
 
 # Live link
+https://bundiroberts.github.io/Delani_Studios/
   
 
 # Languages used
